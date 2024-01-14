@@ -35,12 +35,31 @@
 let isLoggedIn = null;
 let booleanIsLoggedIn = Boolean(isLoggedIn)
 
-console.log( booleanIsLoggedIn) // the output Value is true
+// console.log( booleanIsLoggedIn) // the output Value is true
 
 //for every value in the it will be true except 0 , empty , null
 // "hitesh" => true
 
 
+// let num = 3;
+// let negValue = -num
+
+// console.log(negValue)
+
+// console.log(2 + "3" + 1)
+
+
+// numerical operations are done in first but when it gets string in the way then everything in the way 
+// of processing is converted into string implicitly
+
+
+// operator precedence means what if the operator is used as prefix and postfix. 
+
+let num = 100;
+num++
+console.log(num) //postfix
+
+// console.log(++num) //prefix
 
 
 
