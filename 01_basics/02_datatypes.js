@@ -10,7 +10,7 @@ in double quote and if it is declared once there is no way to return back all th
 // bigint => for storing large values
 //string 
 //boolean => true or false
-//null => it is a stand alone value
+//null => it is a stand alone value (representation of empty value)
 //undefined => default value when some value is not assigned
 //symbol => used while talking about uniqueness, mostly used in REACT AND FIGMA TOOLS
                              
